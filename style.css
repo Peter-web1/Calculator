@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: montserrat;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /*ВЫВЕСТИ В ЦЕНТР ПО ВЕРТИКАЛИ*/
+    background: linear-gradient(#9cebfc,#6ae1fb);/* СТАНДАРТ*/
+    background: linear-gradient(#ade8f5,#0c5566);
+}
